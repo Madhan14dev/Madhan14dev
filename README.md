@@ -41,6 +41,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </p>
 
+## 🎖️ Competitive Programming Profiles
+
+- **LeetCode:** ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=source_code_pro)
+- **HackerRank:** ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-success)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-hackerrank-username&theme=radical" alt="HackerRank Streak" />
+</p>
+
 ## 🚀 Let's Collaborate
 
 I'm open to **new opportunities and collaborations** in the dynamic world of **Data Science and Machine Learning**. Let's build something amazing together!
