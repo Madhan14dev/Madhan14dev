@@ -4,7 +4,7 @@
 
 - 🎓 **B.Tech Student in Artificial Intelligence & Data Science (AI & DS)** from Salem.
 - 💻 Passionate about Data Science, Machine Learning, and Data Analytics.
-- 🏗️ Currently exploring the Machine Learning 
+- 🏗️ Currently exploring the Machine Learning Concepts
 
 ## 🧑‍💻 Technical Skills
 
