@@ -4,16 +4,14 @@
 
 - 🎓 **B.Tech Student in Artificial Intelligence & Data Science (AI & DS)** from Salem.
 - 💻 Passionate about Data Science, Machine Learning, and Data Analytics.
-- 🏗️ Currently exploring **PyTorch** and **Generative Adversarial Networks (GANs)**.
-- 📚 Planning a project on **text reconstruction and completion** using GANs.
-- 🤖 Enthusiastic about NLP and learning **BERT (Bidirectional Encoder Representations from Transformers)**.
+- 🏗️ Currently exploring the Machine Learning 
 
 ## 🧑‍💻 Technical Skills
 
-- **Programming Languages:** Python, SQL
+- **Programming Languages:** Python, SQL, C
 - **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Analytical Tools:** Excel, PowerBI
 - **Database Management:** PostgreSQL
-- **Machine Learning Tools:** Scikit-learn, PyTorch
 - **Version Control:** Git, GitHub
 
 ## 🏆 My Goals
@@ -30,8 +28,8 @@
 ## 📫 How to reach me
 
 - [LinkedIn](https://linkedin.com/in/madhan-j-a23b43270)
-- [Email](mailto:your-email@example.com)
-- [Portfolio](https://your-portfolio-site.com) *(optional)*
+- [Email](mailto:madhanjdeveloper@gmail.com)
+- [Portfolio](https://your-portfolio-site.com)
 
 ## 📊 GitHub Stats
 
