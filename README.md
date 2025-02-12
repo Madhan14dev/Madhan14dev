@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://linkedin.com/in/madhan-j-a23b43270)
 - [Email](mailto:your-email@example.com)
 - [Portfolio](https://your-portfolio-site.com) *(optional)*
 
