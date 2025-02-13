@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech Student in Artificial Intelligence & Data Science (AI & DS)** from Salem.
+- 🎓 **B.Tech Student in Artificial Intelligence & Data Science (AI & DS)**.
 - 💻 Passionate about Data Science, Machine Learning, and Data Analytics.
 - 🏗️ Currently exploring the Machine Learning Concepts
 
@@ -31,14 +31,6 @@
 - [Email](mailto:madhanjdeveloper@gmail.com)
 - [Portfolio](https://your-portfolio-site.com)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 🎖️ Competitive Programming Profiles
 
 - **LeetCode:** ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=source_code_pro)
@@ -53,4 +45,4 @@
 I'm open to **new opportunities and collaborations** in the dynamic world of **Data Science and Machine Learning**. Let's build something amazing together!
 
 ---
-*This README was generated with ❤️ by Madhan.*
+
