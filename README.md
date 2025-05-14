@@ -33,8 +33,8 @@
 
 ## 🎖️ Competitive Programming Profiles
 
-- **LeetCode:** ![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=source_code_pro)
-- **HackerRank:** ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-success)
+- **LeetCode:** ![LeetCode Stats]()
+- **HackerRank:** ![HackerRank Badge]()
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=your-hackerrank-username&theme=radical" alt="HackerRank Streak" />
