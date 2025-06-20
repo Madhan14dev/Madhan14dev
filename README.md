@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 🎓 **B.Tech Student in Artificial Intelligence & Data Science**  
-💬 **Aspiring NLP Engineer** passionate about solving real-world problems using Machine Learning and Deep Learning.  
+💬 **Aspiring Ai Engineer** passionate about solving real-world problems using Machine Learning, Deep Learning and NLP.  
 🔍 Experienced in **POS Tagging**, **NER**, and **Text Classification** using **LSTM**, **BERT**, and **Transformers**.  
 🧠 Applying AI theory to build scalable NLP solutions using **PyTorch**, **TensorFlow**, and **HuggingFace**.
 
@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Technical Skills
 
-- **Languages & Programming:** Python, SQL, C, HTML, CSS  
+- **Languages & Programming:** Python, SQL, HTML, CSS  
 - **Libraries & Frameworks:** PyTorch, TensorFlow, Scikit-learn, HuggingFace, NLTK, SpaCy  
 - **NLP Models:** BERT, LSTM, Transformers  
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn  
